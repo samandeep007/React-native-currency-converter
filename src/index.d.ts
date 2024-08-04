@@ -1,4 +1,4 @@
-interface currency {
+interface ICurrency {
     name: string;
     value: number;
     flag: string;
